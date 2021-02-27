@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523855555 source:c:\users\usuario\documents\tec\analisis y diseño de algoritmos\tareas\proyecto final - metodos numericos\main.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<math.h>
+
